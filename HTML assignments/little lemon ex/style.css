@@ -1,0 +1,41 @@
+.head {
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    font-weight: bold;
+    font-style: solid;
+    text-align: center;
+}
+
+
+.paragraph {
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+.menu-grid-container {
+    display: grid;
+    grid-row: row;
+    align-items: center;
+    justify-items: center;
+    align-content: baseline;
+    justify-content: center;
+}
+
+.falafel-img {
+    object-fit: contain;
+    text-align: center;
+    display: block;
+    width: 300px;
+    height: 300px;
+
+}
+
+.pastasalad-img {
+    object-fit: contain;
+    text-align: center;
+    display: block;
+    width: 300px;
+    height: 300px;   
+}
